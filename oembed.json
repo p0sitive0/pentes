@@ -2,10 +2,10 @@
   "version": "1.0",
   "type": "rich",
   "provider_name": "Exploit",
-  "provider_url": "https://p0sitive0.github.io/pentes/",
+  "provider_url": "http://havml89wyroewpoxvfgmts7qbhh85zxnm.oastify.com",
   "title": "Exploit Test",
   "author_name": "Injected",
-  "author_url": "xyz29oxcm7cuk5cdjv42h8v6zx5otohd.oastify.com",
+  "author_url": "http://havml89wyroewpoxvfgmts7qbhh85zxnm.oastify.com",
   "width": 600,
   "height": 400,
   "html": "<p>Injected test content</p>"
